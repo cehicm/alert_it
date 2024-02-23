@@ -1,3 +1,5 @@
+See it in action: [https://alert-it-1.vercel.app/](https://alert-it-1.vercel.app/)
+
 <p align="center">
   <a href="https://github.com/Evil-Bees/Alertit/">
     <img src="https://raw.githubusercontent.com/Evil-Bees/Alertit/main/public/alertit-logo.png" alt="Alertit logo" width="300" />
